@@ -39,7 +39,7 @@ tmp/
 .env
 .env.local
 .env*.local
-.env.development
+.env
 venv/
 .venv/
 
